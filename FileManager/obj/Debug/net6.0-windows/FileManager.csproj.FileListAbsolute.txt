@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.exe
+C:\Users\ASUS\source\repos\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.deps.json
+C:\Users\ASUS\source\repos\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.runtimeconfig.json
+C:\Users\ASUS\source\repos\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.dll
+C:\Users\ASUS\source\repos\FileManager\FileManager\bin\Debug\net6.0-windows\FileManager.pdb
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.Form1.resources
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.dll
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\refint\FileManager.dll
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.pdb
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\FileManager.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\FileManager\FileManager\obj\Debug\net6.0-windows\ref\FileManager.dll
